@@ -69,6 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-[![Node.js CI](https://github.com/prajwalsharma/react-cra-pages-actions/actions/workflows/deployment-script.yml/badge.svg)](https://github.com/prajwalsharma/react-cra-pages-actions/actions/workflows/deployment-script.yml)
+[![Build](https://github.com/prajwalsharma/react-cra-pages-actions/actions/workflows/deployment-script.yml/badge.svg)](https://github.com/prajwalsharma/react-cra-pages-actions/actions/workflows/deployment-script.yml)
 
-[![pages-build-deployment](https://github.com/prajwalsharma/react-cra-pages-actions/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/prajwalsharma/react-cra-pages-actions/actions/workflows/pages/pages-build-deployment)
+[![Release](https://github.com/prajwalsharma/react-cra-pages-actions/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/prajwalsharma/react-cra-pages-actions/actions/workflows/pages/pages-build-deployment)
