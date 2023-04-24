@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/prajwalsharma/react-cra-pages-actions/compare/v1.1.1...v1.2.0) (2023-04-24)
+
+
+### Features
+
+* add storybook ([13e2dd5](https://github.com/prajwalsharma/react-cra-pages-actions/commit/13e2dd5c656d97f5be2294fac2cfd37a44ff9686))
+
 ## [1.1.1](https://github.com/prajwalsharma/react-cra-pages-actions/compare/v1.1.0...v1.1.1) (2023-04-24)
 
 
