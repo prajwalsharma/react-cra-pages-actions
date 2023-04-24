@@ -21,7 +21,8 @@
     "release": "semantic-release",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "prettier": "prettier --write \"src/**/*.{js,jsx,json,md}\""
+    "prettier": "prettier --write src/",
+    "prettier-check": "prettier src --check"
   },
   "eslintConfig": {
     "extends": [
