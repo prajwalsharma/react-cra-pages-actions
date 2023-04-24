@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/prajwalsharma/react-cra-pages-actions/compare/v1.2.1...v1.2.2) (2023-04-24)
+
+
+### Bug Fixes
+
+* netlify deployment ([82d291b](https://github.com/prajwalsharma/react-cra-pages-actions/commit/82d291ba6389ee3b492f853aa989c7ff0d92e4a7))
+
 ## [1.2.1](https://github.com/prajwalsharma/react-cra-pages-actions/compare/v1.2.0...v1.2.1) (2023-04-24)
 
 
