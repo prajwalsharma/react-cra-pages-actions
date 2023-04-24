@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/prajwalsharma/react-cra-pages-actions/compare/v1.2.0...v1.2.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* remove staticDir from storybook ([c6b80d8](https://github.com/prajwalsharma/react-cra-pages-actions/commit/c6b80d8c2da79db54d737bb51d19ee8f5b0a80b9))
+
 # [1.2.0](https://github.com/prajwalsharma/react-cra-pages-actions/compare/v1.1.1...v1.2.0) (2023-04-24)
 
 
