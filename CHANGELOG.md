@@ -1,3 +1,19 @@
+# [1.4.0](https://github.com/prajwalsharma/react-cra-pages-actions/compare/v1.3.0...v1.4.0) (2023-04-24)
+
+
+### Bug Fixes
+
+* eslint & semantic release ([ab3e18a](https://github.com/prajwalsharma/react-cra-pages-actions/commit/ab3e18a554bf2430de625f00f109916a3c5d6706))
+* eslint errors ([79cdcb6](https://github.com/prajwalsharma/react-cra-pages-actions/commit/79cdcb62bd7d991bf4920e8050835331c75f1ab8))
+* eslint warnings/errors ([3366fca](https://github.com/prajwalsharma/react-cra-pages-actions/commit/3366fca639f04790c45c5d2e9747b7f27cc599c8))
+* lint error in release.config ([fd3eab0](https://github.com/prajwalsharma/react-cra-pages-actions/commit/fd3eab076ebea7110552d8fe29aee02d269589f4))
+* semantic release ([86782a3](https://github.com/prajwalsharma/react-cra-pages-actions/commit/86782a361e1ea056939dbb6fa00c361109016d18))
+
+
+### Features
+
+* add eslint check in ci ([98ea780](https://github.com/prajwalsharma/react-cra-pages-actions/commit/98ea78021eabb7d2bee9de7a0232a45da534c108))
+
 # [1.3.0](https://github.com/prajwalsharma/react-cra-pages-actions/compare/v1.2.2...v1.3.0) (2023-04-24)
 
 
