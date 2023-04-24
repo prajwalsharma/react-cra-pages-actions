@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/prajwalsharma/react-cra-pages-actions/compare/v1.2.2...v1.3.0) (2023-04-24)
+
+
+### Features
+
+* add prettier formatting in CI ([f01ccc0](https://github.com/prajwalsharma/react-cra-pages-actions/commit/f01ccc036466b38dbefe0820cc9a4041de81f07e))
+
 ## [1.2.2](https://github.com/prajwalsharma/react-cra-pages-actions/compare/v1.2.1...v1.2.2) (2023-04-24)
 
 
